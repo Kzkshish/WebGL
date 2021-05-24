@@ -1,5 +1,5 @@
 # WebGL
-Please my games!  
+Play my games!  
 but there is only one game...
 * Shooting
 
