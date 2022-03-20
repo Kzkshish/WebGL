@@ -1,7 +1,7 @@
 # WebGL
 Play my games!  
 but there is only one game...
-* Shooting
+* [Shooting](https://kzkshish.github.io/WebGL/Shooting/)
 
 
 ---
